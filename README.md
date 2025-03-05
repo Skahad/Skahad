@@ -1,6 +1,6 @@
 <h1>Hello there, I'm Shaikh Md Ahad!👋</h1> 
 
-<h4>🖥Detail-oriented Web Developer🖥 | MERN Stack Enthusiast👨‍💻 | Computer Engineering Student👨‍🎓</h4>
+<h6>🖥Detail-oriented Web Developer🖥 | MERN Stack Enthusiast👨‍💻 | Computer Engineering Student👨‍🎓</h6>
 
 
 About Me
