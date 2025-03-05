@@ -40,7 +40,7 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="sahad3889@gmail.com">
+  <a href="mailto:sahad3889@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-orange?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
   </a>
 </div>
