@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello there, I'm Shaikh Md Ahad! 👋
 
-<!--
-**Skahad/Skahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥 Passionate and detail-oriented Web Developer 🖥 | MERN Stack Enthusiast 👨‍💻 | 👨‍🎓Computer Engineering Student.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+About Me
+
+- 🎓 Pursuing Computer Engineering at Rizvi College
+- 💻 Passionate about Full-Stack Web Development 
+- 📚 Currently learning MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🎯 My goal is to create innovative, accessible, and scalable websites and applications that enhance user experiences.
+- 
+
+- 
+-  
+- 
 -->
