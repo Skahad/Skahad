@@ -1,17 +1,7 @@
 <h1>Hello there, I'm Shaikh Md Ahad!👋</h1> 
 
-<h6>🖥Detail-oriented Web Developer🖥 | MERN Stack Enthusiast👨‍💻 | Computer Engineering Student👨‍🎓</h6>
+<h5>🖥Detail-oriented Web Developer🖥 | MERN Stack Enthusiast👨‍💻 | Computer Engineering Student👨‍🎓</h5>
 
 
-About Me
+<h3>About Me</h3>
 
-- 🎓 Pursuing Computer Engineering at Rizvi College
-- 💻 Passionate about Full-Stack Web Development 
-- 📚 Currently learning MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- 🎯 My goal is to create innovative, accessible, and scalable websites and applications that enhance user experiences.
-- 
-
-- 
--  
-- 
--->
