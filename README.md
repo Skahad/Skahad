@@ -34,7 +34,7 @@
 <hr>
 <h2>📧Connect with Me</h2>
 <div id="badges">
-  <a href="www.linkedin.com/in/ahaddev">
+  <a href="https://linkedin.com/in/ahaddev">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
