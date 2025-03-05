@@ -37,7 +37,7 @@
   <a href="https://linkedin.com/in/ahaddev">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://github.com/Skahad">
     <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="mailto:sahad3889@gmail.com">
