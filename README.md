@@ -12,7 +12,7 @@
 <h2>⚙️Skills and Technologies </h2>
 <h2>🌐Frontend</h2>
 <ul>
-  <li>HTML5, CSS3, JavaScript (ES6+)</li>
+  <li>HTML5, CSS3, JavaScript (ES6+), Tailwind CSS</li>
   <li>React.js, Bootstrap</li>
 </ul>-----------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>🛠Backend</h2>
@@ -28,7 +28,7 @@
 <h2>🗄️Others</h2>
 <ul>
   <li>Problem-Solving, Data Structures & Algorithms</li>
-  <li>UI/UX Principles, Version Control (Git)</li>
+  <li>Figma-UI/UX Principles, Version Control (Git)</li>
   <li>API Binding</li>
 </ul>
 <hr>
