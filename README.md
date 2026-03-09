@@ -1,5 +1,5 @@
 <h1>Hello there, I'm Shaikh Md Ahad!👋</h1>
-🖥Detail-oriented Web Developer🖥 | MERN Stack Enthusiast👨‍💻 | Computer Engineering Student👨‍🎓
+🖥Detail-oriented Web Developer🖥 | MERN Stack Enthusiast👨‍💻 | Computer Engineer
 <hr>
 <h2>🧑‍💼About Me</h2>
 <ul>
